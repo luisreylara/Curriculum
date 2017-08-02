@@ -6,11 +6,15 @@ Nombre: Luis Rey Lara Gonzalez
 Correo Electrónico: luisreylara@hotmail.com
 
 
+
 Estudios:
 
 Doctorante en Alta Dirección 2014.
+
 Maestría en Alta Dirección. 2012
+
 Ingeniero en Sistemas Computacionales. 
+
 
 Experiencia:
 
