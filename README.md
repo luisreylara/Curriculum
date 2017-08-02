@@ -2,6 +2,7 @@
 #CurriculumVitae
 
 Nombre: Luis Rey Lara Gonzalez
+
 Correo Electrónico: luisreylara@hotmail.com
 
 
