@@ -9,11 +9,11 @@ Correo Electrónico: luisreylara@hotmail.com
 
 Estudios:
 
-Doctorante en Alta Dirección 2014.
+Doctorante en Alta Dirección. 2014
 
-Maestría en Alta Dirección. 2012
+Maestría en Informática Empresarial. 2012
 
-Ingeniero en Sistemas Computacionales. 
+Ingeniero en Sistemas Computacionales. 1997 
 
 
 Experiencia:
@@ -28,4 +28,4 @@ Profesor de Asignatura en el Instituto Tecnológico de Roque [www.itroque.edu.mx
 
 Coordinador del departamento de Informática. Gobierno del Estado de Guanajuato. 2002-2011
 
-Desarrallador Freelance 1997-2001
+Desarrollador Freelance 1997-2001
